@@ -1,0 +1,30 @@
+2021-05-14 22:05:59,375 Log: DHCP server is up
+2021-05-14 22:06:37,605 Log: DHCP server going Down
+2021-05-14 22:06:48,940 Log: Server Down
+2021-05-14 22:33:26,738 Log: DHCP server is up
+2021-05-14 22:35:24,970 Log: ---
+2021-05-14 22:35:24,970 Log: New DHCP Discover
+2021-05-14 22:35:24,970 Log: Host None (5c:96:9e:76:2c:1c) asked for an IP
+2021-05-14 22:35:24,970 Log: server is offering 192.168.100.2
+2021-05-14 22:35:24,970 Log: DHCP Offer pkt sent
+
+2021-05-14 22:35:24,970 Log: ---
+2021-05-14 22:35:24,970 Log: New DHCP Offer
+2021-05-14 22:35:24,970 Log: DHCP Server 192.168.100.100 (20:4e:f6:4d:db:5d) offered 192.168.100.2
+2021-05-14 22:35:24,970 Log: DHCP Options: subnet_mask: 255.255.255.0, lease_time: 86400, router: 192.168.100.1, name_server: 8.8.8.8, domain: None
+2021-05-14 22:35:24,986 Log: ---
+2021-05-14 22:35:24,986 Log: New DHCP Request
+2021-05-14 22:35:24,986 Log: Host None (5c:96:9e:76:2c:1c) requested 192.168.100.2
+2021-05-14 22:35:25,079 Log: DHCP Ack pkt sent , moving allocate mac/ip to cache
+
+2021-05-14 22:35:25,095 Log: saved to cache
+2021-05-14 22:35:25,096 Log: ---
+2021-05-14 22:35:25,096 Log: New DHCP Ack
+2021-05-14 22:35:25,096 Log: DHCP Server 192.168.100.100 (20:4e:f6:4d:db:5d) acked 192.168.100.2
+2021-05-14 22:35:25,096 Log: DHCP Options: subnet_mask: 255.255.255.0, lease_time: 86400, router: 192.168.100.1, name_server: 8.8.8.8
+2021-05-14 22:50:25,739 Log: ---
+2021-05-14 22:50:25,739 Log: New DHCP Request
+2021-05-14 22:50:25,739 Log: Host iPhone (82:eb:e9:fc:af:21) requested 0.0.0.0
+2021-05-14 22:50:25,747 Log: DHCP Ack pkt sent , moving allocate mac/ip to cache
+
+2021-05-14 23:21:02,408 Log: DHCP server going Down
